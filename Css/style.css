@@ -1,0 +1,14 @@
+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: green !important;
+  border-color: var(--bs-btn-hover-border-color);
+}
+h1 {
+  font-size: 80px;
+  font-weight: 800;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.inner {
+  font-size: 35px;
+  font-family: "Times New Roman", Times, serif;
+}
